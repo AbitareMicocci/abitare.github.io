@@ -4,4 +4,4 @@ Allow: /
 User-agent: Googlebot
 Allow: /
 
-Sitemap: https://www.abitaremicocci.it/sitemap.xml
+Sitemap: https://www.abitaremicocci.com/sitemap.xml
